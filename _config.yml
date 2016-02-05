@@ -1,0 +1,14 @@
+layout_spectrum: 0.267285
+typography_spectrum: 0.7015177
+color:
+  lightness: 0.9003792
+  brandStrength: 0.9123103
+  saturation: 0.6947724
+  rhythmicContrast: 0.6635751
+  brandColors:
+    - '#919188'
+    - '#3A2F28'
+    - '#B4ACA3'
+    - '#FEFFFF'
+    - '#0D0B0D'
+name: REEdesign
