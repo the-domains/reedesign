@@ -1,6 +1,6 @@
 name: REEdesign
 favicon: null
-layout_spectrum: 0.00101
+layout_spectrum: 0.76067
 typography_spectrum: 0.64047
 title: Rob Elgar Design
 cta:
@@ -22,8 +22,8 @@ color:
     - '#173253'
     - '#0077a1'
     - '#c7b74a'
-  brandStrength: 0.9375
+  brandStrength: 0.125
   lightness: 0.8125
-  saturation: 0.8125
+  saturation: 0.375
   rhythmicContrast: 0.75
 purpose: []
