@@ -1,4 +1,4 @@
-name: REEdesign
+name: redesign
 favicon: null
 layout_spectrum: 0.99277
 typography_spectrum: 0.42459
@@ -22,8 +22,8 @@ color:
     - '#fefdf9'
     - '#7d6e57'
     - '#dccdae'
-  brandStrength: 0.1875
-  lightness: 0.5
-  saturation: 0.25
-  rhythmicContrast: 0.25
+  brandStrength: 0.6875
+  lightness: 0.8125
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
