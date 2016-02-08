@@ -24,6 +24,6 @@ color:
     - '#dccdae'
   brandStrength: 0.1875
   lightness: 1
-  saturation: 1
+  saturation: 0.25
   rhythmicContrast: 0.25
 purpose: []
