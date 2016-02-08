@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: About me
-datePublished: '2016-02-08T14:15:09.840Z'
-dateModified: '2016-02-08T14:14:34.425Z'
+description: The grid test site for Rob Elgar Design
+datePublished: '2016-02-08T14:25:02.147Z'
+dateModified: '2016-02-08T14:24:56.778Z'
 title: Rob Elgar Design
 author: []
+sourcePath: _posts/2016-02-08-rob-elgar-design.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-rob-elgar-design.md
-published: true
 url: rob-elgar-design/index.html
 _type: Article
 
