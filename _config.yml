@@ -1,29 +1,41 @@
-name: redesign
-favicon: null
-layout_spectrum: 0.75656
-typography_spectrum: 0.10925
 title: robelgardesign
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.8819562
+favicon: null
+name: redesign
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  brandColors:
-    - '#ffffff'
-    - '#656565'
-    - '#404040'
-    - '#131313'
-    - '#949494'
   brandStrength: 0.6875
-  lightness: 0.8125
-  saturation: 0.875
-  rhythmicContrast: 0.75
-purpose: []
+  lightness: 0.9274874
+  saturation: 0.9806071
+  rhythmicContrast: 0.7259697
+  brandColors:
+    - '#26090A'
+    - '#C2C258'
+    - '#C3423F'
+    - '#0A4360'
+    - '#655E1B'
+typography_spectrum: 0.3026981
