@@ -1,16 +1,16 @@
 title: robelgardesign
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-layout_spectrum: 0.8819562
+layout_spectrum: 0.04680851
 favicon: null
 name: redesign
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -28,14 +28,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.6875
-  lightness: 0.9274874
+  brandStrength: 0.8510638
+  lightness: 0.6234043
   saturation: 0.9806071
-  rhythmicContrast: 0.7259697
+  rhythmicContrast: 0.5127659
   brandColors:
-    - '#26090A'
-    - '#C2C258'
-    - '#C3423F'
-    - '#0A4360'
-    - '#655E1B'
-typography_spectrum: 0.3026981
+    - '#FEFFFF'
+    - '#64250B'
+    - '#9A6530'
+    - '#FFC7A1'
+    - '#F38A6F'
+typography_spectrum: 0.5085106
