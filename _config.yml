@@ -3,7 +3,7 @@ cta:
   domain: null
   version: null
   bucket: null
-layout_spectrum: 0.04680851
+layout_spectrum: 1
 favicon: null
 name: redesign
 purpose: []
@@ -29,9 +29,9 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.8510638
-  lightness: 0.6234043
-  saturation: 0.9806071
-  rhythmicContrast: 0.5127659
+  lightness: 0.8468085
+  saturation: 0.4914894
+  rhythmicContrast: 0.2808511
   brandColors:
     - '#FFFFFF'
     - '#25425D'
